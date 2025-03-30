@@ -17,5 +17,7 @@
 - Webcam to detect chair and read text.
 
 ## Output
-![Output](/detected_chair.jpg)
-*Identified chair reached successfully!*
+<figure>
+  <img src="/detected_chair.jpg" alt="Output"/>
+  <figcaption>Identified chair reached successfully!</figcaption>
+</figure>
