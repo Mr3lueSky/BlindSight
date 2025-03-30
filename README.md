@@ -17,4 +17,4 @@
 - Webcam to detect chair and read text.
 
 ## Output
-![Output](imageFolder/detected_chair.jpg)
+![Output](/detected_chair.jpg)
