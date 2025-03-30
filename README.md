@@ -15,3 +15,6 @@
 - Motors and motor controller to facilitate movement.
 - Mic and Speaker to take in audio input and give out voice feedback.
 - Webcam to detect chair and read text.
+
+## Output
+![Output](imageFolder/detected_chair.jpg)
