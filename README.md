@@ -27,7 +27,7 @@
   <img src="/robot_marked.jpg" alt="Labelled picture"/>
 </figure>
 <figure>
-  <img src="/Robotback.jpg" alt="RobotBack"/>
+  <img src="/Robotback.JPG" alt="RobotBack"/>
 </figure>
 <figure>
   <img src="/robotfront1.jpg" alt="RobotFront"/>
