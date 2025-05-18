@@ -21,3 +21,14 @@
   <img src="/detected_chair.jpg" alt="Output"/>
   <figcaption>Identified chair reached successfully!</figcaption>
 </figure>
+
+## Other pictures
+<figure>
+  <img src="/robot_marked.jpg" alt="Labelled picture"/>
+</figure>
+<figure>
+  <img src="/Robotback.jpg" alt="RobotBack"/>
+</figure>
+<figure>
+  <img src="/robotfront1.jpg" alt="RobotFront"/>
+</figure>
